@@ -2,6 +2,8 @@
 
 # Tugas Besar Kecerdasan Buatan
 
+<img src="http://mypy-lang.org/static/mypy_light.svg" alt="logo" width="300px"/>
+
 ## Dokumentasi project klasifikasi daun
 
 > **Note:** repository ini dibuat untuk kebutuhan tugas besar Kecerdasan Buatan mengenai klasifikasi Daun Sirih dan Daun Nangka pada sistem.
