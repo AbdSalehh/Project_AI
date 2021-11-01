@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-                    # Tugas Besar Kecerdasan Buatan
+# Tugas Besar Kecerdasan Buatan
 
 ## Dokumentasi project klasifikasi daun
 
