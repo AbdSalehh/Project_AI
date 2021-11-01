@@ -2,7 +2,7 @@
 
 # Tugas Besar Kecerdasan Buatan
 
-<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="logo" width="700px"/>
+<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="logo" width="300px"/>
 
 ## Dokumentasi project klasifikasi daun
 
