@@ -1,6 +1,9 @@
 <div id="top"></div>
 
+<div align="center">
 # Tugas Besar Kecerdasan Buatan
+</div>
+
 
 ## Dokumentasi project klasifikasi daun
 
