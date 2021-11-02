@@ -2,7 +2,7 @@
 
 # Tugas Besar Kecerdasan Buatan
 
-<p align="center"><img src="https://www.pngitem.com/pimgs/m/99-994607_artificial-intelligence-transparent-background-hd-png-download.png" alt="logo" width="150px"/></p>
+<p align="center"><img src="https://www.vhv.rs/dpng/d/557-5572519_ai-brain-hd-png-download.png" alt="logo" width="250px"/></p>
 
 ## Dokumentasi project klasifikasi daun
 
