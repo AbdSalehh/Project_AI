@@ -6,7 +6,7 @@
 
 ## Dokumentasi project klasifikasi daun
 
-> **Catatan:** repository ini dibuat untuk kebutuhan tugas besar Kecerdasan Buatan mengenai klasifikasi Daun Sirih dan Daun Nangka pada sistem.
+> **Note:** repository ini dibuat untuk kebutuhan tugas besar Kecerdasan Buatan mengenai klasifikasi Daun Sirih dan Daun Nangka pada sistem.
 
 Dokumentasi ini dibuat untuk menjelaskan tentang project yang kami buat mengenai klasifikasi pada daun sirih dan daun nangka. Berikut ini adalah progress yang sudah kami lakukan sejauh ini:
 
