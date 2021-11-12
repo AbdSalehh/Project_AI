@@ -21,7 +21,9 @@ Dokumentasi ini dibuat untuk menjelaskan tentang project yang kami buat mengenai
  * [x] Membuat readme.md
 
 ### Pekan ke-4
- * [x] Membuat program Image Processing menggunakan bahasa Jupiter Notebook/ipynb 
-       untuk mengedit gambar secara otomatis
+ * [x] Membuat Image Processing menggunakan Artificial Neural Network (ANN)
+
+### Pekan ke-5
+ * [x] Membuat Image Processing menggunakan Convolutional Neural Network(CNN)
 
  <p align="right">(<a href="#top">kembali ke atas</a>)</p>
