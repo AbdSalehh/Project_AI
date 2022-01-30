@@ -24,6 +24,15 @@ Dokumentasi ini dibuat untuk menjelaskan tentang project yang kami buat mengenai
  * [x] Membuat Image Processing menggunakan Artificial Neural Network (ANN)
 
 ### Pekan ke-5
- * [x] Membuat Image Processing menggunakan Convolutional Neural Network(CNN)
+ * [x] Implementasi Klasifikasi Citra Daun Menggunakan CNN
+
+### Pekan ke-6 Sampai ke-8
+ * [x] Membuat WebApp Tentang Klasifikasi Citra Daun Menggunakan CNN yang Telah Dibuat di Pekan Sebelumnya
+
+ ### Pekan ke-9 Sampai 11
+ * [x] Membuat Paper Terkait Klasifikasi Citra Daun.
+
+ ### Pekan ke-12
+ * [x] Presentasi Paper.
 
  <p align="right">(<a href="#top">kembali ke atas</a>)</p>
