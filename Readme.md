@@ -29,7 +29,7 @@ Dokumentasi ini dibuat untuk menjelaskan tentang project yang kami buat mengenai
 ### Pekan ke-6 Sampai ke-8
  * [x] Membuat WebApp Tentang Klasifikasi Citra Daun Menggunakan CNN yang Telah Dibuat di Pekan Sebelumnya
 
- ### Pekan ke-9 Sampai 11
+ ### Pekan ke-9 Sampai ke-11
  * [x] Membuat Paper Terkait Klasifikasi Citra Daun.
 
  ### Pekan ke-12
